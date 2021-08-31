@@ -8,3 +8,5 @@ Show balance, expense and income totals.
 Add new transation and reflect in total.
 Delete items from DOM.
 Persist to local storage.
+
+Click here to check out the web app: https://techiemokhele.github.io/commodity-expense-tracker/
